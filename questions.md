@@ -7,3 +7,4 @@ Question | Solutions | Videos
 |Design SplitWise | | | 
 |Design Snakes and Ladder | | | 
 |Design Cab system(Uber, Ola, Left, Grab | | | 
+|Design Chess | [Solution 1](https://gist.github.com/rsheldiii/2993225) | | 
