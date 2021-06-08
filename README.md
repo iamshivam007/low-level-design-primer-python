@@ -16,6 +16,14 @@ Interested in adding a section or helping complete one in-progress? Contribute!
 - add solutions for the problems along with their detailed explaination (maybe video)
 - create new issues and pick any existing unassigned isssue.
 
+## Points to Remember
+- Please create a separate directory for each new problem [here](https://github.com/JINDALG/low-level-design-primer-python/tree/main/solutions)
+- Please push only working code
+- Please mention python version in main file
+- please add main.py as an entry-point for each design.
+- please add demo if possible.  
+- Please add Readme.md file for each design to provide meta info like what design pattern have been used, what feature has been Supported and not Supported and etc.
+
 # Refrences
 - [Low Level Design Primer Java](https://github.com/prasadgujar/low-level-design-primer)
 
