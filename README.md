@@ -16,6 +16,9 @@ Interested in adding a section or helping complete one in-progress? Contribute!
 - add solutions for the problems along with their detailed explaination (maybe video)
 - create new issues and pick any existing unassigned isssue.
 
+# Refrences
+- [Low Level Design Primer Java](https://github.com/prasadgujar/low-level-design-primer)
+
 # Contact Info
 Feel free to contact me to discuss any issues, questions, or comments.
 
@@ -23,3 +26,4 @@ My contact info can be found on my [Github](http://github.com/jinDALG/) Page
 
 # License
 TODO
+
